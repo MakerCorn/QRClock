@@ -1,2 +1,2 @@
-# qrclock
+# QR Code Clock
  
